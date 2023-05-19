@@ -33,7 +33,7 @@ error_reporting(-1);
 
     User Name: <input name="name" value="" id="" class="" placeholder="enter the name"><br>
     Mobile Number: <input name="phone" value="" id="" class="" placeholder="Enter Ooredoo Numbers Only"><br>
-    E-mail: <input name="email" value="" id="" class="" placeholder="xyz@ADM.ooredoo.om / xyz@MS.ooredoo.om / xyz@ooredoo.om"><br>
+    E-mail: <input name="email" value="" id="" class="" placeholder="xyz@ooredoo.om"><br>
     Password: <input name="password" value="" id="" class="" placeholder="enter the password"><br>
     Confirm Password: <input name="cpassword" value="" id="" class="" placeholder="enter the Confirm Password"><br>
     Department: 
