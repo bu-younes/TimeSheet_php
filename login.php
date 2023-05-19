@@ -149,7 +149,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
     </ul>
 </nav>
-<h3 style="text-align: center;">Please enter your username and password. <a href="register.php">Register</a> if you don't have an account.</h3>
+<h3 style="text-align: center;">Please enter your username and password. <a href="index.php">Register</a> if you don't have an account.</h3>
 <form method="POST" action="login.php">
     <h2>Login</h2>
     <label for="user">User Name/Email ID:	</label>
